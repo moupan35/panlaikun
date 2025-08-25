@@ -1,3 +1,4 @@
+print("=== 脚本开始执行 ===")
 -- 飞行脚本 with GUI
 local Player = game:GetService("Players").LocalPlayer
 local Mouse = Player:GetMouse()
